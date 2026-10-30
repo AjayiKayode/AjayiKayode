@@ -8,10 +8,10 @@ My background in Statistics has given me a foundation in quantitative analysis, 
 
 🛠️ Technical Skills
 
-- Microsoft Excel: Data Cleaning, Analysis and Reporting
-- Power BI: Data Visualization, Interactive Dashboards and Business Intelligence
-- Statistics: Statistical Analysis, Regression Analysis and Data Interpretation
-- Currently Developing: SQL, Python and R
+- Microsoft Excel: Data cleaning, analysis and reporting
+- Power BI: Data visualization, interactive dashboards and business intelligence
+- Statistics: Statistical analysis, regression analysis and data interpretation
+- Currently developing: SQL, Python and R
 
 🎯 Areas of Interest
 
@@ -31,17 +31,16 @@ My background in Statistics has given me a foundation in quantitative analysis, 
 
 🤝 Let's Connect
 
-I am open to learning opportunities, collaborations, internships and entry-level data analytics opportunities.## Hi there 👋
+I am open to learning opportunities, collaborations, internships and entry-level Data Analytics opportunities.
 
+💻 Tools & Technologies
 
-### 💻 Tools & Technologies
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"R" (https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 🌍 Data for Sustainable Development
 
