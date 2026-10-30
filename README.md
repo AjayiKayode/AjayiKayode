@@ -42,3 +42,20 @@ I am open to learning opportunities, collaborations, internships and entry-level
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+🌍 Data for Sustainable Development
+
+My portfolio focuses on applying Statistics and Data Analytics to real-world development challenges, particularly education, social inequality and economic opportunities.
+
+My projects are designed around the United Nations Sustainable Development Goals (SDGs), with particular attention to SDG 4 (Quality Education).
+
+Project| Development Focus
+Nigerian Learning Outcomes & Educational Inequality| SDG 4, SDG 10
+Education Resource Distribution in Nigeria| SDG 4, SDG 10
+Girls' Education & Gender Disparities| SDG 4, SDG 5
+Youth Skills, Education & Employment| SDG 4, SDG 8
+School-Based Learning Assessment & Monitoring| SDG 4, SDG 10, SDG 17
+
+My Approach: Using real-world datasets, statistical analysis, data visualization and business intelligence to uncover patterns, communicate evidence and support informed decision-making.
+
+Projects are being developed progressively. Findings and recommendations will be documented as each project is completed.
