@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Ajayi Kayode 👋
 
-<!--
-**AjayiKayode/AjayiKayode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics Graduate | Data Analyst | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I am a Statistics graduate passionate about using data to solve real-world problems, uncover meaningful insights and support evidence-based decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in Statistics has given me a foundation in quantitative analysis, while my practical interests focus on Data Analytics, Business Intelligence and Data Science.
+
+🛠️ Technical Skills
+
+- Microsoft Excel: Data Cleaning, Analysis and Reporting
+- Power BI: Data Visualization, Interactive Dashboards and Business Intelligence
+- Statistics: Statistical Analysis, Regression Analysis and Data Interpretation
+- Currently Developing: SQL, Python and R
+
+🎯 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Science
+- Statistical Modelling
+- Predictive Analytics
+- Data-Driven Decision Making
+
+📚 Currently Working On
+
+- Building practical data analytics projects.
+- Improving my SQL, Python and R skills.
+- Developing professional dashboards and analytical reports.
+- Applying statistical knowledge to real-world datasets.
+
+🤝 Let's Connect
+
+I am open to learning opportunities, collaborations, internships and entry-level data analytics opportunities.## Hi there 👋
+
+
